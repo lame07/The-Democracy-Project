@@ -1,3 +1,5 @@
+# Draft
+
 # The-Democracy-Project
 The project which represents the base rule of the democracy - **right for vote**.
 
